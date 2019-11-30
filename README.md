@@ -179,10 +179,10 @@ You might need some build tools that typically are not present:
 
 Then you can download and build the git version with
      
-     $ brew install --HEAD pcb2gcode
+     $ brew install --fetch-HEAD pcb2gcode
 
 or (if pcb2gcode is already installed)
 
-     $ brew upgrade --HEAD pcb2gcode
+     $ brew upgrade --fetch-HEAD pcb2gcode
 
 For further details, see INSTALL.
